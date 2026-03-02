@@ -1,0 +1,15 @@
+{
+  "planning_range": {"start": "08:00", "end": "22:00"},
+  "fixed_activities": [
+    {"name": "Ранкова рутина", "start": "08:00", "end": "09:00"},
+    {"name": "Робоча зустріч", "start": "11:00", "end": "12:00"},
+    {"name": "Тренування", "start": "18:00", "end": "19:00"}
+  ],
+  "flexible_activities": [
+    {"name": "Робота над проєктом", "duration_minutes": 180, "priority": 5},
+    {"name": "Читання", "duration_minutes": 60, "priority": 3},
+    {"name": "Підготовка вечері", "duration_minutes": 45, "priority": 4},
+    {"name": "Вивчення англійської", "duration_minutes": 90, "priority": 2}
+  ],
+  "spontaneous_minutes": 90
+}
